@@ -11,5 +11,6 @@ multiplicando=2;
 res=multiplicador*multiplicando;
 printf("Resultado =%d\n",res); /*se muestra el resultado */
 /*Este es un nuevo comentario*/
+/*mas coassdsfkas fkasndfknasklfs*/
 return 0;
 }
