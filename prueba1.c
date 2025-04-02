@@ -10,5 +10,6 @@ multiplicador = 1000; /*se asignan valores*/
 multiplicando=2;
 res=multiplicador*multiplicando;
 printf("Resultado =%d\n",res); /*se muestra el resultado */
+/*Este es un nuevo comentario*/
 return 0;
 }
